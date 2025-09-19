@@ -191,6 +191,6 @@ Pull requests and suggestions are welcome! Please open an issue or submit a PR.
 
 ## 📄 License
 
-© 2024 Ranvijay Kumar. All rights reserved.
+© MIT Licensed. All rights reserved.
 
-This project is the intellectual property of Ranvijay Kumar. Unauthorized copying, distribution, or use is strictly prohibited.
+This project is Licensed under the MIT License. Unauthorized copying, distribution, or use is strictly prohibited.
