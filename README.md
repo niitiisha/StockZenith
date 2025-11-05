@@ -1,6 +1,6 @@
 [![Deployed on Vercel](https://img.shields.io/badge/Live%20App-StockZenith-blue?style=for-the-badge&logo=vercel)](https://stock-zenith.vercel.app)
 
-**Live App:** https://stock-zenith.vercel.app
+**Live App:** [https://stock-zenith.vercel.app](https://stock-zenith.vercel.app)
 
 # StockZenith Portfolio Dashboard
 
