@@ -13,8 +13,7 @@ A modern, full-stack portfolio management dashboard for tracking, analyzing, and
 ## 🌐 Links
 
 - **GitHub Repository (Public):** [https://github.com/yourusername/stockzenith](https://github.com/yourusername/stockzenith)
-- **Deployed URL (Vercel):** [https://stockzenith.vercel.app](https://stockzenith.vercel.app)
-
+- **Deployed URL (Vercel):** [https://stock-zenith.vercel.app](https://stock-zenith.vercel.app)
 ---
 
 ## 🚀 Features
